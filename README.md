@@ -1,5 +1,5 @@
 # UFOs
-## Module 11 challenge
+Module 11 challenge
 
 ## Overview of Project: Purpose of this analysis.
 
@@ -15,23 +15,23 @@ The webpage and dynamic table were working as intended but allowing users to fil
 
 The website displayed in the following image shows how bootstrap and other text and information can be nicely displayed and a Table can be seen containing all the data.
 
-home_page_UFOs_data.png
+!https://github.com/AnaMMoreira/UFOs/blob/main/home_page_UFOs_data.png
 
 It can be seen that a box containing multiple input fields is contained next to the table displaying all the data.  There are placeholders displayed as examples of input but the data will not be filtered and parse and propagated to the table until the user input some specific "values" 
 
 In the following image it can be seen that inputting a date in this case 1/5/2010 and hitting enter filtered our data down to only 4 rows of data.  
 
-home_page_UFOs_data_Onefilter
+!https://github.com/AnaMMoreira/UFOs/blob/main/home_page_UFOs_data_Onefilter.png
 
 The fields are flexible in that they don't necessarily have to be entered to yielded a filtered result and is not dependent on input order.
 for example, the following figure shows you can filter by State only and it still works nicely!
 
-home_page_UFOs_data_NYfilter
+!https://github.com/AnaMMoreira/UFOs/blob/main/home_page_UFOs_data_NYfilter.png
 
 
 Adding a location filter of new paltz was enough to boil our data set down to one data point, as seen in the following figure.
 
-home_page_UFOs_data_Multiplefilter
+!https://github.com/AnaMMoreira/UFOs/blob/main/home_page_UFOs_data_Multiplefilter.png
 
 
 ## Summary: 
